@@ -1,17 +1,17 @@
 # Personal Website
 A simple website to showcase my short bio
 
-# Purpose
+## Purpose
 I created this project for Scrimba's HTML & CSS course
 
-# Features
+## Features
 - Short information about me
 - My selfie
 - My Instagram link
 
-# Languages Used
+## Languages Used
 - HTML
 
-# Key Takeaways
+## Key Takeaways
 - Newsletter isn't real, it's for decoration
 - Instagram link is legit
